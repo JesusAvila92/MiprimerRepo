@@ -6,3 +6,4 @@ CUADRATURA DE CAJAS EN LO ESPEFICIFO
 esudios
 VSC
 salta rana
+Quedan pendientes algunos cambios 
